@@ -44,11 +44,15 @@ Sprint 2: Movimento e Interação Direta
  - Implementação da lógica de movimento básico para os animais.
  - Desenvolvimento das regras de caça para predadores e fuga para presas.
  - Gestão de consumo de energia para cada ação.
- - Sprint 3: Ciclo de Vida e Reprodução
+
+Sprint 3: Ciclo de Vida e Reprodução
+
  - Implementação das condições de morte (fome, velhice, etc.).
  - Desenvolvimento da lógica de reprodução para as espécies.
  - Refinamento do loop principal da simulação.
- - Backlog de Ideias (Expansões Futuras)
+
+Backlog de Ideias (Expansões Futuras)
+
  - Visualização da simulação (console ou gráfica).
  - Adição de diferentes tipos de comida e elementos do terreno.
  - Introdução de múltiplas espécies com interações mais complexas.
